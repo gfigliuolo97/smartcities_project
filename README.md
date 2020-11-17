@@ -1,2 +1,4 @@
-# smartcities_project
-Progetto Smart Cities per Esame 
+# Estrazione di indicatori di Smart City da Google Maps
+
+## Autore
+Giovanni Figliulo
